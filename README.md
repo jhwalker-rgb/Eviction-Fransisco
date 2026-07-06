@@ -126,7 +126,7 @@ The Mission is not simply the first-ranked neighborhood. It is an outlier. Its 5
 
 That concentration matters because the Mission is not only a geographic category. It has long been a center of Latino culture, immigrant life, working-class families, neighborhood businesses, and community organizations. A 2024 San Francisco Planning report found that Latino residents made up approximately **32 percent of the Mission’s population in 2022**, compared with **16 percent citywide**.
 
-The data does not show that all—or even most—of the tenants associated with the Mission notices were Latino. It would be inaccurate to take the neighborhood’s demographic composition and assign it to each record. That would be an example of the **ecological fallacy**, in which group-level characteristics are incorrectly treated as facts about every individual in the group.
+The data does not show that all, or even most, of the tenants associated with the Mission notices were Latino. It would be inaccurate to take the neighborhood’s demographic composition and assign it to each record. That would be an example of the **ecological fallacy**, in which group-level characteristics are incorrectly treated as facts about every individual in the group.
 
 The data also cannot establish that landlords filed notices because of racial prejudice. There is no tenant-race field, no landlord-race field, and no measure of intent.
 
