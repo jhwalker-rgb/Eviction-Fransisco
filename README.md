@@ -203,4 +203,4 @@ San Francisco may be filing fewer eviction notices than it did nearly three deca
 - [San Francisco: Evictions in San Francisco](https://www.sf.gov/evictions-san-francisco)
 - [San Francisco Planning: Mission Action Plan 2020 Annual Status Report 2024](https://sfplanning.org/sites/default/files/documents/citywide/map2020/MAP2020_Status_Report_2024.pdf)
 - [San Francisco Cultural Districts Program](https://www.sf.gov/san-francisco-cultural-districts-program)
-Google Sheets: https://docs.google.com/spreadsheets/d/1RWzzQNw6yh1oVPptVGziDTBTDJ1xWoSjuVMhtZcN8oI/edit?gid=1788850879#gid=1788850879
+ https://docs.google.com/spreadsheets/d/1RWzzQNw6yh1oVPptVGziDTBTDJ1xWoSjuVMhtZcN8oI/edit?gid=1788850879#gid=1788850879
